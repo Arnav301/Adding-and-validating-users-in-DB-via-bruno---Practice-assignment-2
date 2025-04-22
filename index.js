@@ -34,7 +34,7 @@ app.post('/login', async(req,res) => {
   }
 });
 
-mongoose.connect('mongodb+srv://iashishyadav17:test12@cluster0.8yz77i5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect('mongodb+srv://arnavvermas84:Password123@cluster3.0ohrbta.mongodb.net/', {
   
 
 })
